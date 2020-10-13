@@ -1,5 +1,5 @@
 ### Pruthviraj Jadhav
-- photo:https://images.samsung.com/is/image/samsung/p5/uk/support/lucidcx/howdoitransferphotostomypc2.png?$ORIGIN_PNG$
+- photo: https://cdn.pixabay.com/photo/2015/09/04/23/41/dandelion-923221_960_720.jpg
 - Location: India
 - Github: github.com/pruthviishere
 ***
